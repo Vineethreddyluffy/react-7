@@ -1,0 +1,57 @@
+.heading {
+  font-size: 30px;
+  font-weight: bold;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-style: italic;
+}
+.subhead {
+  font-size: 26px;
+  font-weight: bold;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.para {
+  font-size: 18px;
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.button1 {
+  font-size: 14px;
+  color: #ffffff;
+  background-color: #0b69ff;
+  border-radius: 8px;
+  border-width: 0px;
+  padding: 10px;
+  margin: 10px;
+}
+.button2 {
+  font-size: 14px;
+  color: #ffffff;
+  background-color: transparent;
+  border-radius: 8px;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #ffffff;
+  padding: 10px;
+  margin: 10px;
+}
+
+.button-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #07080c;
+  background-size: cover;
+  min-height: 100vh;
+}
+.image {
+  height: 200px;
+  width: 500px;
+}
